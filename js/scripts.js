@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const reservationLink = document.getElementById('reservation-link');
     const contactLink = document.getElementById('contact-link');
     const burgerCard = document.getElementById('burger-card');
-    const tacoCard = document.getElementById('taco-card');
+    const tacoCard = document.getElementById('dip-card');
     const drinksCard = document.getElementById('drinks-card');
     const contentContainer = document.getElementById('content-container');
 

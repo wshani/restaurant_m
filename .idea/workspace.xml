@@ -4,15 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbc4fad0-7427-437b-8999-38e6347c169d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
+    <list default="true" id="bbc4fad0-7427-437b-8999-38e6347c169d" name="Changes" comment="created the menu page">
+      <change afterPath="$PROJECT_DIR$/burger.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dip.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drinks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/burger.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dip.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -33,14 +44,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "branch1",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Projectsha/assignmentm/js"
+    "last_opened_file_path": "C:/Projectsha/assignmentm/assignment1/images"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projectsha\assignmentm\assignment1\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projectsha\assignmentm\js" />
       <recent name="C:\Projectsha\assignmentm\css" />
@@ -55,6 +70,27 @@
       <option name="presentableId" value="Default" />
       <updated>1716033486352</updated>
     </task>
+    <task id="LOCAL-00001" summary="created the menu page">
+      <option name="closed" value="true" />
+      <created>1716050522051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716050522051</updated>
+    </task>
+    <task id="LOCAL-00002" summary="created the menu page">
+      <option name="closed" value="true" />
+      <created>1716050547417</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716050547417</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created the menu page" />
+    <option name="LAST_COMMIT_MESSAGE" value="created the menu page" />
   </component>
 </project>
